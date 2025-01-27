@@ -4,7 +4,7 @@ import { initializeApp } from "firebase/app";
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBDSsxyuCoRE4z3JnwRjlIrvAV32b6hEsM",
+  apiKey: "",
   authDomain: "ebrokerage-9fee3.firebaseapp.com",
   projectId: "ebrokerage-9fee3",
   storageBucket: "ebrokerage-9fee3.appspot.com",
