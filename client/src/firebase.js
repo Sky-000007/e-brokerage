@@ -5,12 +5,12 @@ import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
   apiKey: "",
-  authDomain: "ebrokerage-9fee3.firebaseapp.com",
-  projectId: "ebrokerage-9fee3",
-  storageBucket: "ebrokerage-9fee3.appspot.com",
-  messagingSenderId: "643663883694",
-  appId: "1:643663883694:web:29a0d9a9af93a4b75c6c3f",
-  measurementId: "G-DT8817RT4F",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: "",
 };
 
 // Initialize Firebase
